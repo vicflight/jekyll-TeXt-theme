@@ -8,8 +8,8 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+#Just say something about yourself. :+1:
 
-{% highlight javascript %}
-  (() => console.log('hello, world!'))();
-{% endhighlight %}
+#{% highlight javascript %}
+#  (() => console.log('hello, world!'))();
+#{% endhighlight %}
